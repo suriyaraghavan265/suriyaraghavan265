@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Suriya Balaji
 - 👀 I’m interested in Python 
-- 🌱 I’m currently learning Data Engineer and Machine Learning Engineer
+- 🌱 I’m currently Working as Data Engineer and Machine Learning Engineer
 - 💞️ I’m looking to collaborate on Live Project
 - 📫 How to reach me Via mail here is my mail: suriyaraghavan265@gmail.com
 
